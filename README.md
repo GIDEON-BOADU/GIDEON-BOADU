@@ -20,7 +20,7 @@
 - 🔗 GitHub: [@GIDEON-BOADU](https://github.com/GIDEON-BOADU)  
 
 ### ⚡ Fun Fact  
-- I enjoy woorking/learning from/with experienced tech minds🚀  
+- I enjoy working/learning from/with experienced tech minds🚀  
 
 
 <!---
