@@ -3,7 +3,7 @@
  💻 ABOUT ME 
 - 🎓 BSC in Computer Engineering   
 - 🔍 Passionate about backend development, data analytics, and software engineering  
-- 🚀 Experienced in ** Python, Java, and MySQL web development**  
+- 🚀 Experienced in ** Python **, **Java**, **and MySQL web development**  
 - 📊 Skilled in **Power BI** for data visualization  
 
 ### 🌱 Currently Learning  
